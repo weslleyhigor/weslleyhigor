@@ -3,7 +3,6 @@
 
 
 - 📚Estudante de Sistemas de Informação
-- 📚Estudante da trilha FULLSTACK - Alura
 - 🔎Sede por conhecimento e muita disposição pra aprender coisas novas.
 - 💻Conhecimento em HTML5, CSS3, JavaScript, NodeJs, Python, Git/Github e SQL.
 
