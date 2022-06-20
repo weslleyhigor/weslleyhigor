@@ -2,7 +2,7 @@
 ### Saudações Padawans!! Eu sou o <a href="https://github.com/weslleyhigor">Higor</a><img src="https://c.tenor.com/tuvk4qUAcaUAAAAi/baby-yoda-star-wars.gif"  height="60" align="end" />
 
 
-- 📚Estudante de Sistemas de Informação
+- 📚Estudante de Análise e desenvolvimento de Sistemas
 - 🔎Sede por conhecimento e muita disposição pra aprender coisas novas.
 - 💻Conhecimento em HTML5, CSS3, JavaScript, NodeJs, Python, Git/Github e SQL.
 
