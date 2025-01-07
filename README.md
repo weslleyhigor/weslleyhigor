@@ -1,15 +1,8 @@
 
 ### Saudações Padawans!! Eu sou o <a href="https://github.com/weslleyhigor">Higor</a><img src="https://c.tenor.com/tuvk4qUAcaUAAAAi/baby-yoda-star-wars.gif"  height="60" align="end" />
 
-- Dev Fullstack Web
-- 📚Estudante de Análise e desenvolvimento de Sistemas
-- 🔎Sede por conhecimento e muita disposição pra aprender coisas novas.
-- 💻Conhecimento em HTML5, CSS3, JavaScript, NodeJs, Python, Git/Github e SQL.
-
-- ⚔ Experiência como Auxiliar Administrativo, Analista de suporte N1, Auxiliar de T.I. 
-- ❇️ WhatsApp: <a href="https://wa.me/5568996102021">📞(68)99610-2021</a>
-- 📧 weshigor@gmail.com
-
+- 💻Visite meu portfólio! 
+- 🔗 https://portfolio-dev-ten-blond.vercel.app/
 ##
 
 <div align="center">
