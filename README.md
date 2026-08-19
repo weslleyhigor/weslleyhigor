@@ -3,10 +3,6 @@
 <h3 align="center">Desenvolvedor Front-end e Mobile</h3>
 
 <p align="center">
-  Transformando café ☕ em interfaces modernas, acessíveis e funcionais.
-</p>
-
-<p align="center">
   <a href="https://github.com/weslleyhigor">
     <img
       src="https://komarev.com/ghpvc/?username=weslleyhigor&color=7c3aed&style=flat-square&label=VISITAS"
@@ -29,8 +25,6 @@ Atualmente, trabalho no desenvolvimento de soluções para o **Ministério Públ
 - 🐳 Experiência com ambientes conteinerizados usando Docker
 - 🔐 Atenção à segurança, qualidade e manutenção do código
 - 🌱 Sempre aprendendo e aprimorando minhas habilidades
-
-> “Do. Or do not. There is no try.” — Mestre Yoda
 
 ---
 
