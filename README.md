@@ -88,8 +88,8 @@ Atualmente, trabalho no desenvolvimento de soluções para o **Ministério Públ
 <div align="center">
   <img
     width="600"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=weslleyhigor&theme=tokyonight&hide_border=true&locale=pt_BR"
-    alt="Sequência de contribuições no GitHub"
+    src="https://streak-stats.demolab.com?user=weslleyhigor&theme=tokyonight&hide_border=true&locale=pt_BR"
+    alt="Sequência de contribuições de Weslley Higor"
   />
 </div>
 
@@ -147,4 +147,26 @@ Conheça alguns dos projetos e experiências que fazem parte da minha trajetóri
   <p>
     <strong>Obrigado pela visita. Que a Força esteja com você! 🚀</strong>
   </p>
+</div>
+
+
+## 🐍 Minhas contribuições
+
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/weslleyhigor/weslleyhigor/output/github-contribution-grid-snake-dark.svg"
+    />
+
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/weslleyhigor/weslleyhigor/output/github-contribution-grid-snake.svg"
+    />
+
+    <img
+      src="https://raw.githubusercontent.com/weslleyhigor/weslleyhigor/output/github-contribution-grid-snake.svg"
+      alt="Animação de uma cobrinha percorrendo as contribuições do GitHub"
+    />
+  </picture>
 </div>
