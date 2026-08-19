@@ -2,15 +2,6 @@
 
 <h3 align="center">Desenvolvedor Front-end e Mobile</h3>
 
-<p align="center">
-  <a href="https://github.com/weslleyhigor">
-    <img
-      src="https://komarev.com/ghpvc/?username=weslleyhigor&color=7c3aed&style=flat-square&label=VISITAS"
-      alt="Visualizações do perfil"
-    />
-  </a>
-</p>
-
 ---
 
 ## 👨‍💻 Sobre mim
